@@ -12,7 +12,7 @@ This dashboard analyzes customer churn patterns at Airtel using descriptive and 
 7. Dashboard Filters- Interactive filters for Churn Status, Area Code, and State to enable focused drilldowns <br> 
 
 ## Data Source
-- Kaggle Dataset: Customer Churn Prediction 2020
+- Kaggle Dataset: Customer Churn Prediction 2020 <br> 
 https://www.kaggle.com/competitions/customer-churn-prediction-2020/data	
 
 ## Business Impact
