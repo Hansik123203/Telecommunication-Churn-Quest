@@ -13,11 +13,11 @@ This dashboard analyzes customer churn patterns at Airtel using descriptive and 
 
 ## Data Source
 - Kaggle Dataset: Customer Churn Prediction 2020
-Link to Dataset
+https://www.kaggle.com/competitions/customer-churn-prediction-2020/data	
 
 ## Business Impact
-- Highlights churn-heavy area codes for targeted outreach
-- Reveals potential dissatisfaction linked to call charges
-- Identifies customer service call trends as early churn indicators
-- Enables targeted retention strategies based on usage behavior
+1. Highlights churn-heavy area codes for targeted outreach <br> 
+2. Reveals potential dissatisfaction linked to call charges <br> 
+3. Identifies customer service call trends as early churn indicators <br> 
+4. Enables targeted retention strategies based on usage behavior <br> 
 
